@@ -20,7 +20,7 @@ class Operaciones:
 
     def raizCuadrada(self):
         if self.base < 0:
-            print("No se puede calcular la raíz cuadrada de un número negativo.")
+            print("No se puede calcular la raizz cuadrada de un número negativo.")
         else:
             raiz = math.sqrt(self.base)
             print(f"La raíz cuadrada de {self.base} es {raiz}")
