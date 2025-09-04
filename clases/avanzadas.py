@@ -27,3 +27,4 @@ class Operaciones:
 
     def mostrarResultado(self):   
         print(f"{self.base} elevado a {self.exponente} es igual a {self.resultado}")
+#Nueva
